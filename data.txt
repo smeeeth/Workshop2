@@ -1,0 +1,15 @@
+This is a data file. It contains data.
+
+Here are the first 10 numbers after 0.
+
+1
+2
+3
+4
+5
+5
+6
+7
+8
+9
+10
